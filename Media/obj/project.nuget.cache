@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hsrJJTy4+M9FAmPtN1w7g/t1fXXk2L3rtqu6p6J+gfAR5s4PbhtZRZ4xcMMr8vr99pLa/H84YEt7PFqCHBKGwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dante\\source\\repos\\Media\\Media\\Media.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dante\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.3\\microsoft.aspnetcore.app.ref.3.1.3.nupkg.sha512",
+    "C:\\Users\\dante\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\dante\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
